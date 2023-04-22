@@ -36,7 +36,7 @@ with open('repos.json', 'r') as f:
             writer = csv.writer(csvfile)
 
             #先写入columns_name
-            writer.writerow(["pr名","用户名","url","合并时间", "奖励数量"])
+            writer.writerow(["pr名","用户名","url","合并时间"])
 
             for index in range(1, 10000):
                 # Get a list of all the pull requests for the repository

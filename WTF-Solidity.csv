@@ -1,4 +1,4 @@
-pr名,用户名,url,合并时间,奖励数量
+pr名,用户名,url,合并时间
 更新文档中对Remix默认虚拟机的描述和截图,LarryJBLee,https://github.com/AmazingAng/WTF-Solidity/pull/481,2023-04-16T04:16:50Z
 fix: 修复38章节中，记录Purchase事件参数错误的问题,LaoBan-ywcm,https://github.com/AmazingAng/WTF-Solidity/pull/480,2023-04-14T13:23:57Z
 fix readReturn bug,eveagle,https://github.com/AmazingAng/WTF-Solidity/pull/476,未合并
