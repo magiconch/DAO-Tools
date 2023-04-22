@@ -1,4 +1,46 @@
 pr名,用户名,url,合并时间,奖励数量
+更新文档中对Remix默认虚拟机的描述和截图,LarryJBLee,https://github.com/AmazingAng/WTF-Solidity/pull/481,2023-04-16T04:16:50Z
+fix: 修复38章节中，记录Purchase事件参数错误的问题,LaoBan-ywcm,https://github.com/AmazingAng/WTF-Solidity/pull/480,2023-04-14T13:23:57Z
+fix readReturn bug,eveagle,https://github.com/AmazingAng/WTF-Solidity/pull/476,未合并
+fix: update `byte` to `bytes1`,qiweiii,https://github.com/AmazingAng/WTF-Solidity/pull/474,2023-04-10T12:29:57Z
+feat: udpate en/37,yeecai,https://github.com/AmazingAng/WTF-Solidity/pull/473,2023-04-09T14:00:43Z
+优化04示例code及文档,eveagle,https://github.com/AmazingAng/WTF-Solidity/pull/472,未合并
+docs: modify and add foundry's commands descriptions,Skytrc,https://github.com/AmazingAng/WTF-Solidity/pull/467,2023-04-04T17:36:47Z
+bug:调用方法更正,samaritanz,https://github.com/AmazingAng/WTF-Solidity/pull/466,2023-04-03T15:21:15Z
+修改 Foundry 教程中 RPC 拼写错误,x-player-001,https://github.com/AmazingAng/WTF-Solidity/pull/465,2023-04-03T08:27:34Z
+feat: update en/36,yeecai,https://github.com/AmazingAng/WTF-Solidity/pull/459,2023-03-26T23:01:38Z
+Update readme.md,muzzby,https://github.com/AmazingAng/WTF-Solidity/pull/453,2023-03-20T14:08:37Z
+Revise translation for 34 and 35.,Rulesbreaker,https://github.com/AmazingAng/WTF-Solidity/pull/452,2023-03-19T07:31:19Z
+Revise translation for 32 and 33.,Rulesbreaker,https://github.com/AmazingAng/WTF-Solidity/pull/451,2023-03-17T11:53:47Z
+add codespell checker and fix some typos,iavl,https://github.com/AmazingAng/WTF-Solidity/pull/450,2023-03-17T08:03:44Z
+中文版51讲，补充运行截图及修复文字错误,Azleal,https://github.com/AmazingAng/WTF-Solidity/pull/449,2023-03-16T02:23:56Z
+lesson 51 translate,Azleal,https://github.com/AmazingAng/WTF-Solidity/pull/448,2023-03-16T01:56:36Z
+43 44 45,0x7869616F,https://github.com/AmazingAng/WTF-Solidity/pull/447,2023-03-15T18:46:06Z
+43 44 45 ✅,0x7869616F,https://github.com/AmazingAng/WTF-Solidity/pull/446,未合并
+修改中文文档中遇到的问题,Azleal,https://github.com/AmazingAng/WTF-Solidity/pull/445,2023-03-15T07:53:09Z
+46-50讲的英文版校对,Azleal,https://github.com/AmazingAng/WTF-Solidity/pull/444,2023-03-15T07:53:18Z
+Revise translation for 31_ERC20_en.,Rulesbreaker,https://github.com/AmazingAng/WTF-Solidity/pull/443,2023-03-16T01:59:12Z
+42,0x7869616F,https://github.com/AmazingAng/WTF-Solidity/pull/442,2023-03-14T10:36:37Z
+41_WETH_en,0x7869616F,https://github.com/AmazingAng/WTF-Solidity/pull/441,2023-03-13T10:20:01Z
+Update PaymentSplit.sol,0x7869616F,https://github.com/AmazingAng/WTF-Solidity/pull/440,未合并
+Delete 41-4.jpg,0x7869616F,https://github.com/AmazingAng/WTF-Solidity/pull/439,未合并
+Delete 41-3.jpg,0x7869616F,https://github.com/AmazingAng/WTF-Solidity/pull/438,未合并
+Delete 41-2.jpg,0x7869616F,https://github.com/AmazingAng/WTF-Solidity/pull/437,未合并
+Update WETH.sol,0x7869616F,https://github.com/AmazingAng/WTF-Solidity/pull/436,未合并
+更改ETC为更标准命名,v200123,https://github.com/AmazingAng/WTF-Solidity/pull/430,未合并
+fix: 补全括号,Silence-dream,https://github.com/AmazingAng/WTF-Solidity/pull/428,2023-03-03T09:57:28Z
+fix : 补全括号,Silence-dream,https://github.com/AmazingAng/WTF-Solidity/pull/426,2023-02-27T11:33:23Z
+fix readme,zhiyuan2007,https://github.com/AmazingAng/WTF-Solidity/pull/423,2023-02-23T08:30:55Z
+Update 第39講隨機數 readme.md,RoyHonChain,https://github.com/AmazingAng/WTF-Solidity/pull/422,2023-02-22T08:27:48Z
+docs:  替换参数,lujetliu,https://github.com/AmazingAng/WTF-Solidity/pull/421,2023-02-21T12:31:17Z
+typo: import from a github url instead of npm,PinelliaC,https://github.com/AmazingAng/WTF-Solidity/pull/419,2023-02-17T07:27:10Z
+Remove extraneous bool check from Faucet.sol,wankhede04,https://github.com/AmazingAng/WTF-Solidity/pull/416,2023-02-14T17:07:23Z
+add description of array `push()` method,shimmeris,https://github.com/AmazingAng/WTF-Solidity/pull/415,2023-02-12T13:39:08Z
+Add Onchain lesson 6 for English version.,SunWeb3Sec,https://github.com/AmazingAng/WTF-Solidity/pull/411,2023-02-08T07:57:16Z
+Add description for eip-6049,jeasonstudio,https://github.com/AmazingAng/WTF-Solidity/pull/408,2023-02-04T10:04:04Z
+write_your_own_poc reentrancy,zhouxianyuan,https://github.com/AmazingAng/WTF-Solidity/pull/403,2023-01-30T09:01:44Z
+第五章 全局变量 新增以太单位与时间单位,MuHongWeiWei,https://github.com/AmazingAng/WTF-Solidity/pull/402,2023-01-30T09:02:13Z
+Add onchain transaction lesson5 - Rugpull 分析,SunWeb3Sec,https://github.com/AmazingAng/WTF-Solidity/pull/401,2023-01-30T07:41:10Z
 合约中函数可见性默认值修复,lzxeth,https://github.com/AmazingAng/WTF-Solidity/pull/397,2023-01-16T14:06:12Z
 Add lesson 4 for the onchain debugging.,SunWeb3Sec,https://github.com/AmazingAng/WTF-Solidity/pull/393,2023-01-14T12:24:58Z
 Add English version for onchain analysis lesson 3 ,SunWeb3Sec,https://github.com/AmazingAng/WTF-Solidity/pull/391,2023-01-12T14:54:11Z
@@ -13,21 +55,23 @@ Update SelectorClash.sol,Rulesbreaker,https://github.com/AmazingAng/WTF-Solidity
 Update readme.md,BoZhao1992,https://github.com/AmazingAng/WTF-Solidity/pull/375,2023-01-04T05:53:36Z
 Update readme.md,luchenwei9266,https://github.com/AmazingAng/WTF-Solidity/pull/374,2023-01-03T07:27:54Z
 fix typo,mookim-eth,https://github.com/AmazingAng/WTF-Solidity/pull/372,2023-01-01T13:23:41Z
-修改S11和S13的错别字,sillycow886,https://github.com/AmazingAng/WTF-Solidity/pull/367,2022-12-28T07:56:21Z
+修改S11和S13的错别字,0xtangping,https://github.com/AmazingAng/WTF-Solidity/pull/367,2022-12-28T07:56:21Z
 Fixed OpenZeppelin Typo on Lesson 11!!,C91F37,https://github.com/AmazingAng/WTF-Solidity/pull/366,2022-12-28T07:57:00Z
+"Hi, I have translated chapter 32  into English.",JetCyC,https://github.com/AmazingAng/WTF-Solidity/pull/364,未合并
 操控预言机,captpickle,https://github.com/AmazingAng/WTF-Solidity/pull/361,2022-12-21T07:19:58Z
+translate chapter 31 to english,douxin,https://github.com/AmazingAng/WTF-Solidity/pull/360,未合并
 '1+2=2' -> '1+2=3',Jiangyj19,https://github.com/AmazingAng/WTF-Solidity/pull/358,2022-12-09T05:51:10Z
 添加时间戳攻击,cheng521521,https://github.com/AmazingAng/WTF-Solidity/pull/356,2022-12-12T05:02:50Z
 Update readme.md,ben46,https://github.com/AmazingAng/WTF-Solidity/pull/355,2022-12-16T15:46:55Z
-Fix S08_ContractCheck readme.md,kachunyip,https://github.com/AmazingAng/WTF-Solidity/pull/353,2022-12-05T03:07:52Z
-update Topics/Tools/TOOL07_Foundry/readme.md,sillycow886,https://github.com/AmazingAng/WTF-Solidity/pull/352,2022-12-04T08:10:43Z
-fix readme.md number,kachunyip,https://github.com/AmazingAng/WTF-Solidity/pull/346,2022-11-28T15:06:38Z
+Fix S08_ContractCheck readme.md,0x794E33,https://github.com/AmazingAng/WTF-Solidity/pull/353,2022-12-05T03:07:52Z
+update Topics/Tools/TOOL07_Foundry/readme.md,0xtangping,https://github.com/AmazingAng/WTF-Solidity/pull/352,2022-12-04T08:10:43Z
+fix readme.md number,0x794E33,https://github.com/AmazingAng/WTF-Solidity/pull/346,2022-11-28T15:06:38Z
 fix 404 for S10,zhiyuan2007,https://github.com/AmazingAng/WTF-Solidity/pull/345,2022-11-27T02:04:56Z
 添加了对nft tokenid随机排列的解释,Jiangyj19,https://github.com/AmazingAng/WTF-Solidity/pull/343,2022-11-30T13:41:14Z
 添加了nft tokenid 随即排列算法的解释,Jiangyj19,https://github.com/AmazingAng/WTF-Solidity/pull/342,未合并
 Update readme.md,isaacyuno,https://github.com/AmazingAng/WTF-Solidity/pull/340,2022-11-25T16:47:23Z
 合约安全S11_SilentFailingSendsAndUnchecked更新,LIPUU,https://github.com/AmazingAng/WTF-Solidity/pull/336,2022-12-10T14:43:36Z
-fix S06_SignatureReplay use case,sillycow886,https://github.com/AmazingAng/WTF-Solidity/pull/333,未合并
+fix S06_SignatureReplay use case,0xtangping,https://github.com/AmazingAng/WTF-Solidity/pull/333,未合并
 S10 Frontrunning,hubingliang,https://github.com/AmazingAng/WTF-Solidity/pull/332,2022-12-05T09:37:05Z
 添加合约安全:S12. 操纵block timestamp,cheng521521,https://github.com/AmazingAng/WTF-Solidity/pull/331,未合并
 add create,shao-shuai,https://github.com/AmazingAng/WTF-Solidity/pull/330,2022-11-19T01:42:57Z
@@ -69,8 +113,8 @@ update leasson25 create2 ,Cat2Boy,https://github.com/AmazingAng/WTF-Solidity/pul
 Update Valuetypes中readme.md payable 修饰地址补充,0x0918,https://github.com/AmazingAng/WTF-Solidity/pull/271,2022-10-31T06:25:34Z
 Fix typo,0xkookoo,https://github.com/AmazingAng/WTF-Solidity/pull/267,2022-10-12T14:52:14Z
 Add answer to the pre-raised question,0xkookoo,https://github.com/AmazingAng/WTF-Solidity/pull/266,2022-10-12T14:36:11Z
-typo: 复本 改为  副本,hu-tu-yi-shi,https://github.com/AmazingAng/WTF-Solidity/pull/265,2022-10-18T12:24:48Z
-给逻辑运算符加个 ``  看上去更清晰、醒目,hu-tu-yi-shi,https://github.com/AmazingAng/WTF-Solidity/pull/264,2022-10-12T10:56:36Z
+typo: 复本 改为  副本,shifenhutu,https://github.com/AmazingAng/WTF-Solidity/pull/265,2022-10-18T12:24:48Z
+给逻辑运算符加个 ``  看上去更清晰、醒目,shifenhutu,https://github.com/AmazingAng/WTF-Solidity/pull/264,2022-10-12T10:56:36Z
 fix dex description,Ha2ryZhang,https://github.com/AmazingAng/WTF-Solidity/pull/263,2022-10-12T04:48:22Z
 Fix term,0xkookoo,https://github.com/AmazingAng/WTF-Solidity/pull/262,2022-10-11T15:08:35Z
 13讲 modifier override,auroraug,https://github.com/AmazingAng/WTF-Solidity/pull/261,2022-10-11T10:21:17Z
@@ -94,7 +138,7 @@ Add images of Remix testing ,Rulesbreaker,https://github.com/AmazingAng/WTF-Soli
 Update README.md,quantum-proof,https://github.com/AmazingAng/WTF-Solidity/pull/236,2022-10-06T13:56:41Z
 format code style,gasolin,https://github.com/AmazingAng/WTF-Solidity/pull/235,2022-10-06T08:29:44Z
 EN TL for Tutorial 13 on Inheritance,quantum-proof,https://github.com/AmazingAng/WTF-Solidity/pull/234,2022-10-06T06:15:57Z
-fix:typo,hu-tu-yi-shi,https://github.com/AmazingAng/WTF-Solidity/pull/231,2022-10-05T09:54:47Z
+fix:typo,shifenhutu,https://github.com/AmazingAng/WTF-Solidity/pull/231,2022-10-05T09:54:47Z
 修改hardhat ReadMe.md,cheng521521,https://github.com/AmazingAng/WTF-Solidity/pull/230,2022-10-05T08:35:46Z
 新增 部署合约 和 测试网络配置,EasyChris,https://github.com/AmazingAng/WTF-Solidity/pull/227,2022-10-04T06:53:06Z
 "add Foundry tools, for topics/tools.",u-u-z,https://github.com/AmazingAng/WTF-Solidity/pull/225,2022-10-03T01:15:38Z
@@ -126,9 +170,9 @@ English review for sections 3-6,y4000,https://github.com/AmazingAng/WTF-Solidity
 Update enum,0xc25fee20,https://github.com/AmazingAng/WTF-Solidity/pull/176,2022-08-24T07:30:11Z
 完善了44-TokenLocker，翻译了11、12讲,seasidejuvenile666,https://github.com/AmazingAng/WTF-Solidity/pull/175,2022-08-22T14:55:39Z
 add the function visibility,thurendous,https://github.com/AmazingAng/WTF-Solidity/pull/172,2022-08-19T12:06:32Z
-补充ABI对不开源合约函数的调用,xpalyer,https://github.com/AmazingAng/WTF-Solidity/pull/169,2022-08-15T08:42:01Z
+补充ABI对不开源合约函数的调用,x-player-001,https://github.com/AmazingAng/WTF-Solidity/pull/169,2022-08-15T08:42:01Z
 Fix typo,0x3c,https://github.com/AmazingAng/WTF-Solidity/pull/168,2022-08-15T08:41:21Z
-补充ABI对不开源合约函数的调用,xpalyer,https://github.com/AmazingAng/WTF-Solidity/pull/167,未合并
+补充ABI对不开源合约函数的调用,x-player-001,https://github.com/AmazingAng/WTF-Solidity/pull/167,未合并
 优化 event 中 对 indexed 变量存储在 topic 中的描述,ISheepp,https://github.com/AmazingAng/WTF-Solidity/pull/166,2022-08-11T12:24:17Z
 fix: 错别字rpc,Hongchenglong,https://github.com/AmazingAng/WTF-Solidity/pull/165,2022-08-10T11:41:04Z
 Fixed 新增上架多个NFT，修复下架产生购买歧义问题,EasyChris,https://github.com/AmazingAng/WTF-Solidity/pull/162,2022-08-09T14:33:56Z

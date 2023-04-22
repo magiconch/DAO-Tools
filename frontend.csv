@@ -1,0 +1,67 @@
+pr名,用户名,url,合并时间,奖励数量
+main to dev,AmazingAng,https://github.com/WTFAcademy/frontend/pull/72,2023-02-18T08:39:59Z
+cleanup,pcdotfan,https://github.com/WTFAcademy/frontend/pull/71,未合并
+fix: typo,overtrue,https://github.com/WTFAcademy/frontend/pull/70,2023-02-01T07:08:33Z
+Dev: update i18n,AmazingAng,https://github.com/WTFAcademy/frontend/pull/69,2023-02-18T08:39:10Z
+fix: 修复文档入口错误造成无法链接访问,chongqiangchen,https://github.com/WTFAcademy/frontend/pull/68,2023-01-18T23:58:27Z
+引入i18n,chongqiangchen,https://github.com/WTFAcademy/frontend/pull/67,2023-01-25T18:59:06Z
+Dev,AmazingAng,https://github.com/WTFAcademy/frontend/pull/66,2023-01-07T05:44:05Z
+fix: 修复Solidity进阶分享card的图,chongqiangchen,https://github.com/WTFAcademy/frontend/pull/65,2023-01-06T08:00:48Z
+fix typo,zzyspace,https://github.com/WTFAcademy/frontend/pull/64,2023-01-03T15:22:46Z
+Dev,AmazingAng,https://github.com/WTFAcademy/frontend/pull/63,2022-12-13T14:03:12Z
+feat: 开放solidity进阶,chongqiangchen,https://github.com/WTFAcademy/frontend/pull/62,2022-12-13T13:11:28Z
+Update index.js,0xDjangoMo,https://github.com/WTFAcademy/frontend/pull/61,2022-12-09T04:46:24Z
+优化毕业按钮样式,0xDjangoMo,https://github.com/WTFAcademy/frontend/pull/60,2022-12-08T16:30:08Z
+Dev,AmazingAng,https://github.com/WTFAcademy/frontend/pull/59,2022-12-06T15:20:01Z
+fix: 修正相关错误,chongqiangchen,https://github.com/WTFAcademy/frontend/pull/58,2022-12-06T15:19:11Z
+fix: 修正相关错误,chongqiangchen,https://github.com/WTFAcademy/frontend/pull/57,2022-12-06T15:19:09Z
+Dev,AmazingAng,https://github.com/WTFAcademy/frontend/pull/56,2022-12-04T14:00:16Z
+Showcase fix 01,chongqiangchen,https://github.com/WTFAcademy/frontend/pull/55,2022-12-04T13:57:17Z
+Dev,AmazingAng,https://github.com/WTFAcademy/frontend/pull/54,2022-12-02T07:55:37Z
+Fix debug 02,chongqiangchen,https://github.com/WTFAcademy/frontend/pull/53,2022-12-02T07:55:14Z
+Dev,AmazingAng,https://github.com/WTFAcademy/frontend/pull/52,2022-12-01T07:38:21Z
+fix: 调试错误-01,chongqiangchen,https://github.com/WTFAcademy/frontend/pull/51,2022-12-01T07:37:00Z
+Dev,AmazingAng,https://github.com/WTFAcademy/frontend/pull/50,2022-12-01T07:20:17Z
+Fix debug,chongqiangchen,https://github.com/WTFAcademy/frontend/pull/49,2022-12-01T07:17:42Z
+fix: 尝试修正tw card 图片,chongqiangchen,https://github.com/WTFAcademy/frontend/pull/48,2022-12-01T07:17:43Z
+fix: 尝试修正tw card 图片,chongqiangchen,https://github.com/WTFAcademy/frontend/pull/47,2022-11-28T06:40:36Z
+Feat tw card,chongqiangchen,https://github.com/WTFAcademy/frontend/pull/46,2022-11-28T01:56:30Z
+Feat update certificate page,chongqiangchen,https://github.com/WTFAcademy/frontend/pull/45,2022-11-20T18:17:08Z
+main -> dev sync,AmazingAng,https://github.com/WTFAcademy/frontend/pull/44,未合并
+Dev,AmazingAng,https://github.com/WTFAcademy/frontend/pull/43,2022-11-04T10:08:57Z
+update:addmetadata,0xDjangoMo,https://github.com/WTFAcademy/frontend/pull/42,2022-11-04T01:43:35Z
+feat: create certificate and add wagmi,chongqiangchen,https://github.com/WTFAcademy/frontend/pull/41,2022-11-04T05:38:10Z
+Dev to main Refactor,AmazingAng,https://github.com/WTFAcademy/frontend/pull/40,2022-11-01T05:16:19Z
+Refactor request,chongqiangchen,https://github.com/WTFAcademy/frontend/pull/39,2022-10-31T06:17:31Z
+Dev,0xDjangoMo,https://github.com/WTFAcademy/frontend/pull/38,2022-10-24T16:05:38Z
+Dev,AmazingAng,https://github.com/WTFAcademy/frontend/pull/37,2022-10-18T12:14:56Z
+feat: update solidity advanced tutorials,chongqiangchen,https://github.com/WTFAcademy/frontend/pull/36,2022-10-17T13:47:03Z
+fix: fix progress ui and some dark ui,chongqiangchen,https://github.com/WTFAcademy/frontend/pull/34,2022-10-11T02:00:47Z
+Dev,AmazingAng,https://github.com/WTFAcademy/frontend/pull/33,2022-10-07T15:10:38Z
+Refactor mobile login and dark,chongqiangchen,https://github.com/WTFAcademy/frontend/pull/32,2022-10-07T15:09:33Z
+Dev,0xDjangoMo,https://github.com/WTFAcademy/frontend/pull/31,2022-09-29T17:10:38Z
+fix,0xDjangoMo,https://github.com/WTFAcademy/frontend/pull/30,2022-09-29T16:50:46Z
+fix,0xDjangoMo,https://github.com/WTFAcademy/frontend/pull/29,2022-09-29T15:55:31Z
+fix,0xDjangoMo,https://github.com/WTFAcademy/frontend/pull/28,2022-09-29T15:46:41Z
+fix,0xDjangoMo,https://github.com/WTFAcademy/frontend/pull/27,2022-09-22T18:01:08Z
+Dev,0xDjangoMo,https://github.com/WTFAcademy/frontend/pull/26,2022-09-22T17:45:34Z
+update 17,AmazingAng,https://github.com/WTFAcademy/frontend/pull/25,2022-09-22T15:09:06Z
+Update to main,AmazingAng,https://github.com/WTFAcademy/frontend/pull/24,2022-09-21T09:13:36Z
+Dev,AmazingAng,https://github.com/WTFAcademy/frontend/pull/23,2022-09-20T12:40:35Z
+Fix nav login style,chongqiangchen,https://github.com/WTFAcademy/frontend/pull/22,2022-09-20T12:33:00Z
+feat: update solidity-advanced article,chongqiangchen,https://github.com/WTFAcademy/frontend/pull/21,未合并
+update-nav,0xDjangoMo,https://github.com/WTFAcademy/frontend/pull/20,2022-09-19T17:29:20Z
+dev: update-logo,0xDjangoMo,https://github.com/WTFAcademy/frontend/pull/19,2022-09-19T17:09:38Z
+update: requset header,0xDjangoMo,https://github.com/WTFAcademy/frontend/pull/15,2022-09-12T06:55:37Z
+Dev,0xDjangoMo,https://github.com/WTFAcademy/frontend/pull/14,2022-09-12T06:32:37Z
+feat: add page me,vecpeng,https://github.com/WTFAcademy/frontend/pull/13,2022-09-19T16:44:05Z
+Add Solidity highlight,zhenfeng-zhu,https://github.com/WTFAcademy/frontend/pull/12,2022-09-10T14:51:06Z
+Dev,AmazingAng,https://github.com/WTFAcademy/frontend/pull/11,2022-09-06T03:07:17Z
+fix: fetch all contributors,Doctor-DC,https://github.com/WTFAcademy/frontend/pull/9,2022-08-22T08:05:02Z
+feat: contributor scroll,Doctor-DC,https://github.com/WTFAcademy/frontend/pull/8,2022-08-19T11:18:24Z
+Issues #6 add contributor wall,buttonwild,https://github.com/WTFAcademy/frontend/pull/7,未合并
+feat: add message board,reborn-sama,https://github.com/WTFAcademy/frontend/pull/5,2022-08-23T15:11:36Z
+fix: signout color,vecpeng,https://github.com/WTFAcademy/frontend/pull/4,2022-07-30T07:10:31Z
+feat: useUser and useSession hook,vecpeng,https://github.com/WTFAcademy/frontend/pull/3,2022-07-29T17:48:58Z
+Feat/login with GitHub,vecpeng,https://github.com/WTFAcademy/frontend/pull/2,2022-07-29T13:25:49Z
+Remove node_modules and create .gitignore,vecpeng,https://github.com/WTFAcademy/frontend/pull/1,2022-07-28T18:59:11Z

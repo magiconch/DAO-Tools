@@ -1,0 +1,45 @@
+pr名,用户名,url,合并时间,奖励数量
+Chapter 2-5,hasselalcala,https://github.com/WTFAcademy/WTF-Starknet/pull/58,2023-04-22T02:46:22Z
+added useful links,Hderek22,https://github.com/WTFAcademy/WTF-Starknet/pull/56,2023-04-19T05:54:53Z
+fixed typo,Hderek22,https://github.com/WTFAcademy/WTF-Starknet/pull/55,2023-04-16T01:52:51Z
+fix: #29,pcdotfan,https://github.com/WTFAcademy/WTF-Starknet/pull/51,2023-04-02T17:52:13Z
+fix: #28,pcdotfan,https://github.com/WTFAcademy/WTF-Starknet/pull/50,2023-03-31T17:49:23Z
+fix: #45,pcdotfan,https://github.com/WTFAcademy/WTF-Starknet/pull/46,2023-03-31T03:58:40Z
+Add quiz to chapter 5,kongtaoxing,https://github.com/WTFAcademy/WTF-Starknet/pull/44,2023-03-26T23:00:12Z
+Edit this page button link to repository,0xads,https://github.com/WTFAcademy/WTF-Starknet/pull/43,2023-03-22T11:02:25Z
+ERC1155 Soulbound Token,Pikkuherkko,https://github.com/WTFAcademy/WTF-Starknet/pull/40,2023-03-31T18:02:14Z
+Adding spanish translation,hasselalcala,https://github.com/WTFAcademy/WTF-Starknet/pull/39,2023-03-31T17:55:10Z
+docs(5_Dapp): get-starknet & starknet-react defs,pcdotfan,https://github.com/WTFAcademy/WTF-Starknet/pull/38,2023-02-18T01:20:10Z
+Upadte 5_dapp.mdx,kongtaoxing,https://github.com/WTFAcademy/WTF-Starknet/pull/36,2023-02-10T20:20:38Z
+typo,pcdotfan,https://github.com/WTFAcademy/WTF-Starknet/pull/35,2023-02-08T16:52:12Z
+Update README.md,reborn-sama,https://github.com/WTFAcademy/WTF-Starknet/pull/33,2023-02-06T16:48:35Z
+Fix: typos,omahs,https://github.com/WTFAcademy/WTF-Starknet/pull/32,2023-02-06T16:25:33Z
+Add design contribution info to README.md,tankxu,https://github.com/WTFAcademy/WTF-Starknet/pull/31,2023-02-06T16:26:08Z
+add Backend contributor,stoneworld,https://github.com/WTFAcademy/WTF-Starknet/pull/30,2023-02-06T16:25:59Z
+addd blog,hasselalcala,https://github.com/WTFAcademy/WTF-Starknet/pull/27,2023-02-04T09:42:15Z
+Fix a ui issue.,Glacier-Luo,https://github.com/WTFAcademy/WTF-Starknet/pull/26,2023-02-04T09:41:57Z
+update 5_dapp,kongtaoxing,https://github.com/WTFAcademy/WTF-Starknet/pull/25,2023-02-04T09:41:46Z
+Add uid in dashboard and update quiz progress.,Glacier-Luo,https://github.com/WTFAcademy/WTF-Starknet/pull/24,未合并
+Update quiz dashboard and form.,Glacier-Luo,https://github.com/WTFAcademy/WTF-Starknet/pull/23,2023-02-04T08:06:12Z
+reviewed docs,Darlington02,https://github.com/WTFAcademy/WTF-Starknet/pull/22,2023-02-04T07:18:11Z
+Update quiz dashboard and form.,Glacier-Luo,https://github.com/WTFAcademy/WTF-Starknet/pull/21,未合并
+add mint status,kongtaoxing,https://github.com/WTFAcademy/WTF-Starknet/pull/20,2023-02-04T06:11:00Z
+correct some mistakes,hasselalcala,https://github.com/WTFAcademy/WTF-Starknet/pull/19,2023-02-03T22:17:50Z
+ADD AA,hasselalcala,https://github.com/WTFAcademy/WTF-Starknet/pull/18,2023-02-03T21:53:30Z
+"Last changes, AA tutorial complete.",ocandocrypto,https://github.com/WTFAcademy/WTF-Starknet/pull/17,未合并
+add summary and quiz,hasselalcala,https://github.com/WTFAcademy/WTF-Starknet/pull/16,2023-02-03T19:44:10Z
+add quiz and summary,hasselalcala,https://github.com/WTFAcademy/WTF-Starknet/pull/15,未合并
+feat(SBT): mint logic & refine styles,pcdotfan,https://github.com/WTFAcademy/WTF-Starknet/pull/14,2023-02-03T18:47:59Z
+feat(SBT): responsive,pcdotfan,https://github.com/WTFAcademy/WTF-Starknet/pull/13,未合并
+refactor: lazyload-ize image & refine styles,pcdotfan,https://github.com/WTFAcademy/WTF-Starknet/pull/12,2023-02-03T15:38:27Z
+fix(WalletModal): incorrect wallet order,pcdotfan,https://github.com/WTFAcademy/WTF-Starknet/pull/11,2023-02-03T13:17:28Z
+Update SBT page.,Glacier-Luo,https://github.com/WTFAcademy/WTF-Starknet/pull/10,2023-02-03T12:20:53Z
+feat: add WalletModal,pcdotfan,https://github.com/WTFAcademy/WTF-Starknet/pull/9,2023-02-03T10:37:43Z
+Feat account,chongqiangchen,https://github.com/WTFAcademy/WTF-Starknet/pull/8,2023-02-03T07:23:34Z
+"""Add argent wallet tutorial""",hasselalcala,https://github.com/WTFAcademy/WTF-Starknet/pull/7,2023-02-02T20:33:47Z
+feat: init,chongqiangchen,https://github.com/WTFAcademy/WTF-Starknet/pull/6,2023-02-02T17:26:04Z
+Import old codebase & configure starknet deps,pcdotfan,https://github.com/WTFAcademy/WTF-Starknet/pull/5,未合并
+Add protostar part,hasselalcala,https://github.com/WTFAcademy/WTF-Starknet/pull/4,2023-02-02T10:19:28Z
+updating content,hasselalcala,https://github.com/WTFAcademy/WTF-Starknet/pull/3,2023-02-02T08:27:11Z
+Create WTF is Account Abstraction.md,ocandocrypto,https://github.com/WTFAcademy/WTF-Starknet/pull/2,2023-02-02T07:33:37Z
+adding cairo 101 and intro to ERC721clear,hasselalcala,https://github.com/WTFAcademy/WTF-Starknet/pull/1,2023-02-01T22:19:23Z
