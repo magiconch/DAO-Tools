@@ -10,18 +10,22 @@ api_url = 'https://api.github.com'
 # This is required to authenticate your request to the GitHub API
 # You can create a personal access token by following the instructions here:
 # https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token
-# personal_access_token = 'your-personal-access-token'
+personal_access_token = 'your-personal-access-token-here'
 
 # Set the headers for the request
 headers = {
-    # 'Authorization': f'token {personal_access_token}',
+    'Authorization': f'Bearer {personal_access_token}',
     'Accept': 'application/vnd.github+json',
+    "X-GitHub-Api-Version": "2022-11-28"
+
+    
 }
 
 with open('repos.json', 'r') as f:
     json_data = json.load(f)
 
     for item in json_data:
+        sleep(1)
         # Set the name of the user or organization and the repository
         # For example, if the repository is "https://github.com/my-user/my-repo",
         # the user is "my-user" and the repository is "my-repo"
@@ -30,7 +34,7 @@ with open('repos.json', 'r') as f:
 
         sleep(1)
 
-        with open(f"{repo}.csv","w") as csvfile:
+        with open(f"./output/{repo}.csv","w") as csvfile:
 
             # Create a CSV writer
             writer = csv.writer(csvfile)
