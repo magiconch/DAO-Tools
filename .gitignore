@@ -129,3 +129,6 @@ dmypy.json
 .pyre/
 
 output
+
+*.csv
+*.xlsx
