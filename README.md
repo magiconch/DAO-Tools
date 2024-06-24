@@ -1,5 +1,7 @@
 # DAO-Tools
 
+请在运行前将personal_access_token替换为自己的token
+
 ## PR 统计
 
 ```shell
@@ -15,6 +17,10 @@ python3 merge2csv.py
 
 # 根据规则统计贡献者数量
 python3 process_data.py
+
+
+# 生成贡献者列表
+python3 main.py
 
 ```
 
