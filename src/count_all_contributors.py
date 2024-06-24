@@ -4,7 +4,7 @@ import pandas as pd
 
 def get_all_sheets():
     # 读取xlsx中的所有表
-    all_sheets = pd.read_excel('./wtf-total.xlsx', sheet_name=None)
+    all_sheets = pd.read_excel('./output.xlsx', sheet_name=None)
     return all_sheets    
     
 
@@ -46,7 +46,7 @@ def process_sheets():
                        '所有pr链接': '\n'.join(all_pr_links[name])
                        })
 
-    writer = pd.ExcelWriter('./result.xlsx')
+    writer = pd.ExcelWriter('./contributors.xlsx')
     # contributions_df = pd.DataFrame(pr_contributions, columns=['用户名', 'pr数量'])
     contributions_df = pd.DataFrame(result,
                                      columns=['用户名', 'pr数量', '最后pr提交时间', '所有pr链接'])
@@ -57,4 +57,4 @@ def process_sheets():
 
     writer.close()
 
-process_sheets()
+# process_sheets()

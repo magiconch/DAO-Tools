@@ -2,9 +2,6 @@ import glob
 import pandas as pd
 
 
-scores = {}
-
-
 def get_file_list(path):
     return glob.glob(path)
 
@@ -23,4 +20,4 @@ def csv2sheet():
     writer.close()
 
 
-csv2sheet()
+# csv2sheet()
